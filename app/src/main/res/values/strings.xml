@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application09</string>
+    <string name="phone_call">Набрать номер телефона</string>
+    <string name="camera_call">Вызвать камеру</string>
+</resources>
